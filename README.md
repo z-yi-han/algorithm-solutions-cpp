@@ -1,2 +1,2 @@
 # algorithm-solutions-cpp
-作者进行算法训练时写的题目对应代码,在README文件中作者会放出题目链接
+## _前言_
